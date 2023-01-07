@@ -1,0 +1,38 @@
+h3{
+    color: magenta;
+    text-decoration: underline solid black;
+    text-align: center;
+    
+}
+p{
+    color: green;
+}
+.mr{
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:underline solid green;
+
+}
+.header{
+    height: 200px;
+    /* background-image: url(forest.jpg); */
+     background-image: url(../pexels-ryan-holloway-427900.jpg); 
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: darkorange;
+     background-blend-mode: multiply; 
+    /* background-color: gray; */
+}
+ samp{
+    border: 1px solid rgb(255, 0, 0);
+    background-color: black;
+
+ }
+ .blog{
+    background-color: peru;
+    box-shadow: 10px 10px 10px gray;
+    margin-bottom: 100px;
+
+    
+ }
