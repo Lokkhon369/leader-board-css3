@@ -80,3 +80,19 @@ hr{
     font-size: 16px;
     color: #562EFF;
 }
+
+/*-------------------------------------
+                 last course
+ --------------------------------------- */
+.courses{
+    display: flex;
+}
+.course{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 24px;
+}
+.course-baner img{
+    width: 224px;
+    height: 104px;
+}
